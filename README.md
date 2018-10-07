@@ -16,27 +16,27 @@ This repo contains the implementation of YOLOv2 in Keras with Tensorflow backend
 ### Raccon detection
 <a href="https://www.youtube.com/watch?v=aibuvj2-zxA" rel="some text"><p align="center"><img src="https://i.imgur.com/6okeDjz.jpg" height="300"></p></a>
 
-Dataset => https://github.com/experiencor/raccoon_dataset
+Dataset: https://github.com/experiencor/raccoon_dataset
 
 ### Kangaroo detection
 <a href="https://youtu.be/vjmFzEP1qZw?t=34" rel="some text"><p align="center"><img src="https://i.imgur.com/v606VZX.jpg" height="300"></p></a>
 
-Dataset => https://github.com/experiencor/kangaroo
+Dataset: https://github.com/experiencor/kangaroo
 
 ### Self-driving Car
 <a href="https://www.youtube.com/watch?v=oYCaILZxEWM" rel="some text"><p align="center"><img src="https://i.imgur.com/kEc9ptL.jpg" height="300"></p></a>
 
-Dataset => http://cocodataset.org/#detections-challenge2017
+Dataset: http://cocodataset.org/#detections-challenge2017
 
 ### Red blod cell detection
 <a href="https://www.youtube.com/watch?v=oYCaILZxEWM" rel="some text"><p align="center"><img src="https://i.imgur.com/1vmIJKL.jpg" height="300"></p></a>
 
-Dataset => https://github.com/cosmicad/dataset
+Dataset: https://github.com/cosmicad/dataset
 
 ### Hand detection
 <a href="https://www.youtube.com/watch?v=p3-3kN_fIz0" rel="some text"><p align="center"><img src="https://i.imgur.com/75imQQz.jpg" height="300"></p></a>
 
-Dataset => http://cvrr.ucsd.edu/vivachallenge/index.php/hands/hand-detection/
+Dataset: http://cvrr.ucsd.edu/vivachallenge/index.php/hands/hand-detection/
 
 ## Usage for python code
 
